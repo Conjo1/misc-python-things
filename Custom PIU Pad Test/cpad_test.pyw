@@ -1,5 +1,4 @@
-"""QT5 python app to test a home made PIU pad (it based on a keyboard)
-"""
+"""QT5 python app to test a home made PIU pad (if it's based on a keyboard)"""
 
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel
 from PyQt5.QtGui import QPixmap
